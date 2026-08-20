@@ -1,0 +1,48 @@
+# ---------------------------------------------------------------------------
+# Everything that appears in the profile panel lives here.
+# Edit this file, run `python3 today.py`, and both SVGs are rebuilt.
+# Lines marked TODO still need your real values.
+# ---------------------------------------------------------------------------
+
+username: cyanoxide        # rendered as <username>@github in the header
+
+birth_date: "1991-01-01"
+
+user:
+  UserName: Cyanoxide
+  Name: Jamie Pates
+  Title: "Senior Web Developer"
+  Experience: "10+ Years"
+
+system:
+  OS: "Linux, MacOS, Windows"
+  Host: "Gloucester, UK"
+  Website: "https://jamiepates.com"
+
+languages:
+  "Programming": "JavaScript/TypeScript, Python, SQL, PHP, CSS/SCSS"
+  "Frameworks": "Django, Next.js, Magento"
+  "Skills": "CI/CD, SSH/CLI, Photoshop/Figma, Responsive Design, SEO"
+
+
+contact:
+  "Email": "me@jamiepates.co.uk"
+  "LinkedIn": "https://www.linkedin.com/in/jamiepates"
+  "Reddit": "https://www.reddit.com/user/Xianoxide"
+
+featured Project:
+  "ProjectName": "React XP"
+  "ProjectDesc": "An authentic recreation of Windows XP, built with React"
+  "RepoUrl": "https://github.com/Cyanoxide/react-xp"
+
+# Repos skipped when counting lines of code. Their stars and repo count still
+# count - this only excludes them from the LOC totals.
+stats:
+  exclude_repos:
+    - Cyanoxide/Fillerless   # node_modules committed before .gitignore existed
+
+# Panel geometry. ascii_cols must match the widest line in ascii_file.
+layout:
+  ascii_file: portrait.txt   # hand-made art; ascii_art.py writes ascii_art.txt
+  ascii_cols: 38
+  panel_cols: 78
