@@ -36,7 +36,7 @@
 <text x="20" y="562" xml:space="preserve"><tspan fill="#57606a">            ......  .. +  ..</tspan></text>
 <text x="403" y="34" xml:space="preserve"><tspan fill="#2f7d32" font-weight="600">cyanoxide@github </tspan><tspan fill="#d0d7de">-------------------------------------------------------------</tspan></text>
 <text x="403" y="50" xml:space="preserve"></text>
-<text x="403" y="66" xml:space="preserve"><tspan fill="#0b7285">- Uptime:</tspan><tspan fill="#d0d7de"> ........................................ </tspan><tspan fill="#3b4252">35 years, 7 months, 28 days</tspan></text>
+<text x="403" y="66" xml:space="preserve"><tspan fill="#0b7285">- Uptime:</tspan><tspan fill="#d0d7de"> ........................................ </tspan><tspan fill="#3b4252">35 years, 7 months, 29 days</tspan></text>
 <text x="403" y="82" xml:space="preserve"></text>
 <text x="403" y="98" xml:space="preserve"><tspan fill="#1f2328" font-weight="600">- User </tspan><tspan fill="#d0d7de">-----------------------------------------------------------------------</tspan></text>
 <text x="403" y="114" xml:space="preserve"><tspan fill="#0b7285">- UserName:</tspan><tspan fill="#d0d7de"> ........................................................ </tspan><tspan fill="#3b4252">Cyanoxide</tspan></text>
@@ -66,6 +66,6 @@
 <text x="403" y="498" xml:space="preserve"></text>
 <text x="403" y="514" xml:space="preserve"><tspan fill="#1f2328" font-weight="600">- GitHub Stats </tspan><tspan fill="#d0d7de">---------------------------------------------------------------</tspan></text>
 <text x="403" y="530" xml:space="preserve"><tspan fill="#0b7285">- Repos:</tspan><tspan fill="#d0d7de"> ................................... </tspan><tspan fill="#3b4252">15</tspan><tspan fill="#3b4252"> {Contributed: </tspan><tspan fill="#1a7f37">11</tspan><tspan fill="#3b4252">} | Stars: </tspan><tspan fill="#1a7f37">100</tspan></text>
-<text x="403" y="546" xml:space="preserve"><tspan fill="#0b7285">- Commits:</tspan><tspan fill="#d0d7de"> ............................................. </tspan><tspan fill="#3b4252">1,094</tspan><tspan fill="#3b4252"> | Followers: </tspan><tspan fill="#1a7f37">17</tspan></text>
-<text x="403" y="562" xml:space="preserve"><tspan fill="#0b7285">- Lines of Code on GitHub:</tspan><tspan fill="#d0d7de"> ..................... </tspan><tspan fill="#3b4252">192,850</tspan><tspan fill="#3b4252"> (</tspan><tspan fill="#1a7f37">242,399++</tspan><tspan fill="#3b4252">, </tspan><tspan fill="#cf222e">49,549--</tspan><tspan fill="#3b4252">)</tspan></text>
+<text x="403" y="546" xml:space="preserve"><tspan fill="#0b7285">- Commits:</tspan><tspan fill="#d0d7de"> ............................................. </tspan><tspan fill="#3b4252">1,122</tspan><tspan fill="#3b4252"> | Followers: </tspan><tspan fill="#1a7f37">17</tspan></text>
+<text x="403" y="562" xml:space="preserve"><tspan fill="#0b7285">- Lines of Code on GitHub:</tspan><tspan fill="#d0d7de"> ..................... </tspan><tspan fill="#3b4252">193,896</tspan><tspan fill="#3b4252"> (</tspan><tspan fill="#1a7f37">244,466++</tspan><tspan fill="#3b4252">, </tspan><tspan fill="#cf222e">50,570--</tspan><tspan fill="#3b4252">)</tspan></text>
 </svg>
